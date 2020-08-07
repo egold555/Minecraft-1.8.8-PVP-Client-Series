@@ -1,1 +1,1 @@
-# Episode 6: Splash Screen
+# Episode 5: Splash Screen
